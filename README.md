@@ -1,6 +1,10 @@
 Freed-Wu
 ========
 
+[![wakatime](https://wakatime.com/badge/user/4472c829-ef20-4823-ae4b-4ed0954e0b44.svg)](https://wakatime.com/@4472c829-ef20-4823-ae4b-4ed0954e0b44)
+[![twitter](https://img.shields.io/twitter/follow/FreedWu?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/FreedWu)
+[![github](https://img.shields.io/github/followers/Freed-Wu?logo=github&style=plastic)](https://github.com/Freed-Wu?tab=followers)
+
 Hello, everyone!
 
 I am a student coming from China.
