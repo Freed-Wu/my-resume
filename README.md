@@ -10,7 +10,9 @@
 [![vim.org](https://img.shields.io/static/v1?message=1&nbsp;package&label=vim.org&logo=vim)](https://www.vim.org/account/profile.php?user_id=76258)
 [![aur](https://img.shields.io/static/v1?message=13&nbsp;packages&label=aur&logo=archlinux)](https://aur.archlinux.org/packages?K=Freed&SeB=m)
 
-[![stats](https://github-readme-stats.vercel.app/api?username=Freed-Wu&theme=solarized-dark "stats")](https://github.com/Freed-Wu)
+[![stats](https://github-readme-stats.vercel.app/api?username=Freed-Wu&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freed-Wu&theme=dracula&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wzy&theme=dracula&layout=compact&langs_count=10&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
 
 Hello, everyone!
 
