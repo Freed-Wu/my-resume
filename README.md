@@ -18,7 +18,8 @@ Hello, everyone!
 
 I am a student coming from China.
 
-This is my resume. Welcome to [email me](mailto:wuzy01@qq.com).
+This is my resume. Welcome to [email me](mailto:wuzy01@qq.com) or
+[discuss](https://github.com/Freed-Wu/Freed-Wu/discussions).
 Let us work hard for a bright future!
 
 <details>
@@ -27,6 +28,3 @@ Let us work hard for a bright future!
   ![resume](https://github.com/Freed-Wu/Freed-Wu/raw/master/images/main.svg "resume")
 
 </details>
-
-<!-- ex: nowrap
--->
