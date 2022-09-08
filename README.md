@@ -16,7 +16,7 @@
 
 Hello, everyone!
 
-I am a student coming from China.
+I am a student coming from [China](https://en.wikipedia.org/wiki/China).
 
 This is my resume. Welcome to [email me](mailto:wuzy01@qq.com).
 Let us work hard for a bright future!
