@@ -11,6 +11,13 @@
 [![vim.org](https://img.shields.io/static/v1?message=1%C2%A0package&label=vim.org&logo=vim)](https://www.vim.org/account/profile.php?user_id=76258)
 [![aur](https://img.shields.io/static/v1?message=15%C2%A0packages&label=aur&logo=archlinux)](https://aur.archlinux.org/packages?K=Freed&SeB=m)
 
+[![archlinux](https://img.shields.io/badge/archlinux-rolling-blue?logo=archlinux)](https://aur.archlinux.org/account/Freed)
+[![android](https://img.shields.io/badge/android-10-00E886?logo=android)](https://forum.xda-developers.com/m/freed-wu.11344913)
+[![zhihu](https://img.shields.io/badge/zhihu-gray?logo=zhihu)](https://www.zhihu.com/people/wu-zhen-yu-49-44)
+[![weibo](https://img.shields.io/badge/weibo-gray?logo=sina-weibo)](https://weibo.com/u/5198670731)
+[![linkedin](https://img.shields.io/badge/linkedin-gray?logo=linkedin)](https://www.linkedin.com/in/zhenyu-wu-5625971a7/)
+[![qq](https://img.shields.io/badge/qq-gray?logo=tencent-qq)](https://user.qzone.qq.com/1295652958)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=Freed-Wu&theme=dracula&column=-1&no-bg=true&no-frame=true)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Freed-Wu&theme=dracula&show_icons=true&count_private=true&line_height=28)
