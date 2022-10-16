@@ -2,15 +2,22 @@
 \usepackage{subfiles}
 \usepackage{ctex}
 \usepackage{graphicx}
-\graphicspath{{fig/}}
 \usepackage{tabu}
 \usepackage{multirow}
 \usepackage{progressbar}
 \pagestyle{empty}
+\title{resume}
+\ExplSyntaxOn%
+\NewDocumentCommand{\Shell}{om}{\sys_get_shell:nnN{#2}{}#1}
+\ExplSyntaxOff%
+\Shell[\Name]{git config user.name}
+\Shell[\Email]{git config user.email}
+\usepackage{xspace}
+\newcommand{\Authorname}[0]{\href{mailto:\Email}{\Name}\xspace}
+\author{\Authorname\thanks{\href{https://ustc.edu.cn/}{USTC}}}
 \begin{document}
 
-\subfile{sub/zh}
-\subfile{sub/en}
+\subfile{subfiles/zh}
+\subfile{subfiles/en}
 
 \end{document}
-
