@@ -1,0 +1,34 @@
+---
+name: LaTeX Build
+
+on: # yamllint disable-line rule:truthy
+  push:
+    paths-ignore:
+      - "**.md"
+  pull_request:
+    paths-ignore:
+      - "**.md"
+
+jobs:
+  deploy:
+    - uses: actions/checkout@v3
+    - uses: actions/checkout@v3
+      with:
+        repository: Freed-Wu/resume
+        path: resume
+    - uses: actions/checkout@v3
+      with:
+        repository: billryan/resume
+        path: resume_with_font
+    - uses: xu-cheng/latex-action@v2
+      with:
+        root_file: |
+          "*.tex"
+          figures/*.tex
+        glob_root_file: true
+        pre_compile: |
+          cp resume/resume.cls .
+          cp resume_with_font/fonts/* .
+    - uses: actions/upload-artifact@v3
+      with:
+        path: "*.pdf"
