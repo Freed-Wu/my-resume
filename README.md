@@ -1,7 +1,7 @@
 # Freed-Wu
 
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/Freed-Wu/Freed-Wu/master.svg)](https://results.pre-commit.ci/latest/github/Freed-Wu/Freed-Wu/master)
-[![github/workflow](https://shields.io/github/workflow/status/Freed-Wu/Freed-Wu/latex-build)](https://github.com/Freed-Wu/Freed-Wu/actions)
+[![github/workflow](https://github.com/Freed-Wu/Freed-Wu/actions/workflows/main.yml/badge.svg)](https://github.com/Freed-Wu/Freed-Wu/actions)
 
 [![wakatime](https://wakatime.com/badge/user/4472c829-ef20-4823-ae4b-4ed0954e0b44.svg)](https://wakatime.com/@wzy)
 [![codestats](https://img.shields.io/badge/dynamic/json?url=https://codestats.net/api/users/Freed-Wu&query=%24.total_xp&label=xp&logo=data:image/png%3Bbase64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQfjAwcHLTn8E0WHAAACqUlEQVRIx+3US2tdVRQH8N953OTaRqgvQm1iwApiSyG11Maq0IAJjVAH4kALnRQEFVp0YgXrA8kXUFD8Ag7qRBR8IBbEKtSIpRGVSlMdNBVsFaFptCW5Zzk4556cm1r8ALr35Oy9zl6P//+/Fv+vpOeUSRDVbShEw5pKG6fV1urxtQIksn+25tVHqiO3zZiNblA477RZP1ioo3dsMGmLm4Xf/WTWrIsr0XnEt6JndyzYi1wi8ZLFKu1yFy4aLzNIdbzmIC47Zsa8wpCtths0jNSy1x3Aae+as2TQ3R6w3mA3+rQQjrqzrjrBgP0eAvcohCNalSXBWk+7vyxgh47wqRyZtpZcXoOa40Vhwe3ok1fWxnpbWLQZrVUoZ1I53hR+NiBtMJXIJaQG7cInvpdb0rLbTWDAlLZCggWsN6KQyKrswnKpg0khHEQ/JoTDYL+wr7rdI4Rv7Kxo72YHnhLC7qraG71qM7jNtCGq3z4QOjp+dMTzJqxbUeYLQhir+LiW3Nd6w5WGDn7zlltL9//uoFQqIw54x3cuCR3hvFF4UghTFQcjPjQOtvrYlrqElV7IDHvcjBC+lvOgEJ6p4BoXngP7hMdowJZW/Cc1KmGKW8wL71e/JjbqrwR0R/24t0/Tmq9wKHXBUUwYtawlnHEFdMzV/R6yBkKFJfxBV3rbLAmf60emT6uWauo6sEZaaa/cfXhCCHtL7A8L4QubGun22+kjz4JXvGe0nkcJtjsnnDOY60hNG3DIfU44ZsYF19tkzJDcZ6DtYVNO+dKcv6yzw6Q2XvZrlxr2OLlqoFzylV1KuR+32LAUwhmPIu0mnFUj7V4j1vjTL0456WwD+2Gj7rJB26J5Jxx3Wapotu7VQ7U7h3vncReJ7GqGm07KVJvOkh7rqqH+X15/A4KR4pXr8wp+AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE5LTAzLTA3VDA3OjQ1OjU3KzAxOjAwlMWKwgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOS0wMy0wN1QwNzo0NTo1NyswMTowMOWYMn4AAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAAAV3pUWHRSYXcgcHJvZmlsZSB0eXBlIGlwdGMAAHic4/IMCHFWKCjKT8vMSeVSAAMjCy5jCxMjE0uTFAMTIESANMNkAyOzVCDL2NTIxMzEHMQHy4BIoEouAOoXEXTyQjWVAAAAAElFTkSuQmCC)](https://codestats.net/users/Freed-Wu)
@@ -31,8 +31,9 @@ Hello, everyone!
 
 I am a student coming from [China](https://en.wikipedia.org/wiki/China).
 
-This is my resume. Welcome to [email me](mailto:wuzy01@qq.com) or join
-![github/discussions](https://shields.io/github/discussions/Freed-Wu/Freed-Wu).
+This is my [resume](https://github.com/Freed-Wu/Freed-Wu/releases).
+Welcome to [email me](mailto:wuzy01@qq.com) or join
+[![github/discussions](https://shields.io/github/discussions/Freed-Wu/Freed-Wu)](https://github.com/Freed-Wu/Freed-Wu/discussions).
 
 Let us work hard for a bright future!
 
@@ -43,3 +44,6 @@ Let us work hard for a bright future!
 ![resume](images/main-1.png)
 
 </details>
+
+<!-- ex: nowrap
+-->
