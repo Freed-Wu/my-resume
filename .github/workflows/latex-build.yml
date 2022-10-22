@@ -11,24 +11,33 @@ on: # yamllint disable-line rule:truthy
 
 jobs:
   deploy:
-    - uses: actions/checkout@v3
-    - uses: actions/checkout@v3
-      with:
-        repository: Freed-Wu/resume
-        path: resume
-    - uses: actions/checkout@v3
-      with:
-        repository: billryan/resume
-        path: resume_with_font
-    - uses: xu-cheng/latex-action@v2
-      with:
-        root_file: |
-          "*.tex"
-          figures/*.tex
-        glob_root_file: true
-        pre_compile: |
-          cp resume/resume.cls .
-          cp resume_with_font/fonts/* .
-    - uses: actions/upload-artifact@v3
-      with:
-        path: "*.pdf"
+    strategy:
+      fail-fast: false
+      matrix:
+        runs-on:
+          - ubuntu-latest
+          - macos-latest
+          - windows-latest
+    runs-on: ${{ matrix.runs-on }}
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
+        with:
+          repository: Freed-Wu/resume
+          path: resume
+      - uses: actions/checkout@v3
+        with:
+          repository: billryan/resume
+          path: resume_with_font
+      - uses: xu-cheng/latex-action@v2
+        with:
+          root_file: |
+            "*.tex"
+            figures/*.tex
+          glob_root_file: true
+          pre_compile: |
+            cp resume/resume.cls .
+            cp resume_with_font/fonts/* .
+      - uses: actions/upload-artifact@v3
+        with:
+          path: "*.pdf"
