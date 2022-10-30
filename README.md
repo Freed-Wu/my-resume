@@ -1,4 +1,6 @@
-# Freed-Wu
+---
+title: About Me
+---
 
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/Freed-Wu/Freed-Wu/master.svg)](https://results.pre-commit.ci/latest/github/Freed-Wu/Freed-Wu/master)
 [![github/workflow](https://github.com/Freed-Wu/Freed-Wu/actions/workflows/main.yml/badge.svg)](https://github.com/Freed-Wu/Freed-Wu/actions)
@@ -39,10 +41,8 @@ Let us work hard for a bright future!
 
 <details>
   <summary>Resume</summary>
-
-![resume](images/main-2.png)
-![resume](images/main-1.png)
-
+  <img src="images/main-2.png"><img>
+  <img src="images/main-1.png"><img>
 </details>
 
 <!-- ex: nowrap

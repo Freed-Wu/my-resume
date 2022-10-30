@@ -44,6 +44,10 @@ repos:
     rev: 3.0.0
     hooks:
       - id: check-mailmap
+  - repo: https://github.com/adrienverge/yamllint
+    rev: v1.28.0
+    hooks:
+      - id: yamllint
   - repo: https://github.com/executablebooks/mdformat
     rev: 0.7.16
     hooks:
