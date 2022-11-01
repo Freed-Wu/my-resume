@@ -1,4 +1,5 @@
 ---
+layout: post
 title: About Me
 ---
 
@@ -12,15 +13,16 @@ my constellation is :leo: and I have driving license :page_with_curl: to drive :
 As the above screenshot, I :heart: open source :recycle: and
 hacker culture :sunglasses:. My English name comes from
 ["free software"](https://www.gnu.org), which named by myself after reading
-[*The Cathedral and the Bazaar*](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar),
-[*Hackers & Painters*](https://en.wikipedia.org/wiki/Hackers_%26_Painters),
-[*The Mythical Man-Month*](https://en.wikipedia.org/wiki/The_Mythical_Man-Month),
-[*Just for Fun*](https://github.com/limkokholefork/just-for-fun-linus-torvalds)
+[_The Cathedral and the Bazaar_](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar),
+[_Hackers & Painters_](https://en.wikipedia.org/wiki/Hackers_%26_Painters),
+[_The Mythical Man-Month_](https://en.wikipedia.org/wiki/The_Mythical_Man-Month),
+[_Just for Fun_](https://github.com/limkokholefork/just-for-fun-linus-torvalds)
 and
-[*Free as in Freedom*](https://zh.wikisource.org/wiki/%E8%8B%A5%E4%B8%BA%E8%87%AA%E7%94%B1%E6%95%85%EF%BC%9A%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6%E4%B9%8B%E7%88%B6%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E6%96%AF%E6%89%98%E6%9B%BC%E4%BC%A0).
+[_Free as in Freedom_](https://zh.wikisource.org/wiki/%E8%8B%A5%E4%B8%BA%E8%87%AA%E7%94%B1%E6%95%85%EF%BC%9A%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6%E4%B9%8B%E7%88%B6%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E6%96%AF%E6%89%98%E6%9B%BC%E4%BC%A0).
 
-I have a :iphone: which OS is rooted
-[![Android](https://img.shields.io/badge/Android-10-00E886?logo=android)](https://forum.xda-developers.com/m/freed-wu.11344913).
+I have a rooted
+[![Android](https://img.shields.io/badge/Android-10-00E886?logo=Android)](https://forum.xda-developers.com/m/freed-wu.11344913)
+\:iphone:.
 Sometimes I do some lightweight development :wrench: on it when I am on a :bus:
 like this:
 
@@ -35,8 +37,9 @@ git push
 gh pr create
 ```
 
-I code in my favourite :computer: which OS is
-[![Archlinux](https://img.shields.io/badge/Archlinux-rolling-blue?logo=archlinux)](https://aur.archlinux.org/account/Freed)
+I code in my favourite
+[![Archlinux](https://img.shields.io/badge/Archlinux-rolling-blue?logo=Archlinux)](https://aur.Archlinux.org/account/Freed)
+\:computer:
 with a $2880 \times 2560$ screen composed of two monitors
 when I am in the [laboratory](https://github.com/ustc-ivclab).
 I have spent
@@ -47,7 +50,7 @@ on coding and will spend the rest of my life on it.
 
 When I return to my :house:, I connect
 my
-[![openwrt](https://img.shields.io/badge/openwrt-gray?logo=openwrt)](https://space.bilibili.com/49330423/dynamic)
+[![OpenWrt](https://img.shields.io/badge/OpenWrt-gray?logo=OpenWrt)](https://space.bilibili.com/49330423/dynamic)
 router and use
 [![firefox](https://img.shields.io/badge/firefox-gray?logo=firefox-browser)](https://github.com/mozilla)
 as my browser,
@@ -58,8 +61,8 @@ as my input method engine
 and
 [![google](https://img.shields.io/badge/google-gray?logo=google)](https://github.com/google)
 as my search engine
-to surf the network. I read
-[animations](https://space.bilibili.com/49330423/bangumi), comics (like
+to surf the network. I watch
+[animations](https://space.bilibili.com/49330423/bangumi), read comics (like
 [this](https://ac.qq.com/Comic/ComicInfo/id/648472),
 [this](https://ac.qq.com/Comic/comicInfo/id/540487),
 [this](https://www.kuaikanmanhua.com/web/topic/1135)
@@ -74,46 +77,44 @@ I am interested in contributing to any
 [![open source](https://img.shields.io/badge/open%20source-gray?logo=open-source-initiative)](https://github.com/Freed-Wu)
 project only if I :heart: it. E.g.:
 
-- \:package: my needed programs for
-  [![termux](https://img.shields.io/badge/termux-gray?logo=android)](https://github.com/termux/termux-packages/commits?author=Freed-Wu),
-  [![msys2](https://img.shields.io/badge/msys2-gray?logo=windows)](https://github.com/msys2/MINGW-packages/commits?author=Freed-Wu),
-  [![homebrew](https://img.shields.io/badge/homebrew-gray?logo=homebrew)](https://github.com/Homebrew/homebrew-core/commits?author=Freed-Wu)
-  and
-  [![aur](https://img.shields.io/badge/aur-gray?logo=archlinux)](https://aur.archlinux.org/packages?K=Freed&SeB=m).
-- \:wrench: my needed plugins for
-  [![vim](https://img.shields.io/badge/vim-gray?logo=vim)](https://www.vim.org/account/profile.php?user_id=76258),
-  [![zsh](https://img.shields.io/badge/zsh-gray?logo=windows-terminal)](https://github.com/zdharma-continuum/zinit/commits?author=Freed-Wu)
-  and
-  [![tmux](https://img.shields.io/badge/tmux-gray?logo=tmux)](https://github.com/tmux-plugins/tmux-open/commits?author=Freed-Wu).
-  On the top of the above screenshot, there exists
-  [a tmux plugin](https://github.com/Freed-Wu/tmux-bitahub)
-  developed by me to display the GPU numbers of our laboratory server.
-  Do you :heart: it?
-  Or you want to see [my zsh plugin](https://github.com/Freed-Wu?tab=repositories&q=zsh&type=source)?
-- Use my familiar languages to :hammer: my needed libraries for
-  [![pypi](https://img.shields.io/badge/dynamic/xml?url=https://pypi.org/user/Freed-Wu&query=//html/body/main/div/div/div/h2&label=pypi&logo=pypi)](https://pypi.org/user/Freed-Wu)
-  and
-  [![ctan](https://img.shields.io/static/v1?message=1%C2%A0package&label=ctan&logo=data:image/png%3Bbase64,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)](https://ctan.org/author/zhenyu).
-  BTW, I always write
-  [![readthedocs](https://shields.io/readthedocs/computer-graphics-demo)](https://computer-graphics-demo.readthedocs.io)
-  and use CI/CD :construction_worker: like
-  [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/Freed-Wu/Freed-Wu/master.svg)](https://results.pre-commit.ci/latest/github/Freed-Wu/Freed-Wu/master)
-  and
-  [![github/workflow](https://github.com/Freed-Wu/Freed-Wu/actions/workflows/main.yml/badge.svg)](https://github.com/Freed-Wu/Freed-Wu/actions).
+- Package :package: my needed programs for:
+  - [![termux](https://img.shields.io/badge/termux-gray?logo=Android)](https://github.com/termux/termux-packages/commits?author=Freed-Wu)
+  - [![msys2](https://img.shields.io/badge/msys2-gray?logo=windows)](https://github.com/msys2/MINGW-packages/commits?author=Freed-Wu)
+  - [![homebrew](https://img.shields.io/badge/homebrew-gray?logo=homebrew)](https://github.com/Homebrew/homebrew-core/commits?author=Freed-Wu)
+  - [![aur](https://img.shields.io/badge/aur-gray?logo=Archlinux)](https://aur.Archlinux.org/packages?K=Freed&SeB=m)
+- Create :wrench: my needed plugins for:
+  - [![vim](https://img.shields.io/badge/vim-gray?logo=vim)](https://github.com/Freed-Wu?tab=repositories&q=vim&type=source)
+  - [![zsh](https://img.shields.io/badge/zsh-gray?logo=windows-terminal)](https://github.com/Freed-Wu?tab=repositories&q=zsh&type=source)
+  - [![tmux](https://img.shields.io/badge/tmux-gray?logo=tmux)](https://github.com/Freed-Wu?tab=repositories&q=tmux&type=source)
+    On the top of the above screenshot, there exists
+    [a tmux plugin](https://github.com/Freed-Wu/tmux-bitahub)
+    developed by me to display the GPU numbers of our laboratory server. Do you
+    \:heart: it?
+- Build :hammer: my needed libraries for:
+  - [![pypi](https://img.shields.io/badge/dynamic/xml?url=https://pypi.org/user/Freed-Wu&query=//html/body/main/div/div/div/h2&label=pypi&logo=pypi)](https://pypi.org/user/Freed-Wu)
+  - [![ctan](https://img.shields.io/static/v1?message=1%C2%A0package&label=ctan&logo=data:image/png%3Bbase64,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)](https://ctan.org/author/zhenyu)
+  - [![vim.org](https://img.shields.io/badge/vim.org-1%20package-888888?logo=vim)](https://www.vim.org/account/profile.php?user_id=76258)
 
-If you are :satisfied: with me, you can find more information about me in
-[![github](https://img.shields.io/github/followers/Freed-Wu?logo=github)](https://github.com/Freed-Wu?tab=followers),
-[![sponsors](https://shields.io/github/sponsors/Freed-Wu?logo=github)](https://github.com/sponsors/Freed-Wu/),
-[![twitter](https://img.shields.io/twitter/follow/FreedWu?logo=twitter)](https://twitter.com/FreedWu),
-[![XDA forum](https://img.shields.io/badge/XDA%20forum-gray?logo=android)](https://forum.xda-developers.com/m/freed-wu.11344913),
-[![Archlinux BBS](https://img.shields.io/badge/Archlinux%20BBS-gray?logo=archlinux)](https://bbs.archlinux.org/profile.php?id=126120),
-[![Gentoo forum](https://img.shields.io/badge/Gentoo%20forum-gray?logo=gentoo)](https://forums.gentoo.org/profile.php?mode=viewprofile&u=399232),
-[![zhihu](https://img.shields.io/badge/zhihu-gray?logo=zhihu)](https://www.zhihu.com/people/wu-zhen-yu-49-44),
-[![weibo](https://img.shields.io/badge/weibo-gray?logo=sina-weibo)](https://weibo.com/u/5198670731),
-[![linkedin](https://img.shields.io/badge/linkedin-gray?logo=linkedin)](https://www.linkedin.com/in/zhenyu-wu-5625971a7/)
-[![bilibili](https://img.shields.io/badge/bilibili-gray?logo=bilibili)](https://space.bilibili.com/49330423)
-and
-[![qq](https://img.shields.io/badge/qq-gray?logo=tencent-qq)](https://user.qzone.qq.com/1295652958).
+BTW, I always write
+[![readthedocs](https://shields.io/readthedocs/computer-graphics-demo)](https://computer-graphics-demo.readthedocs.io)
+and use CI/CD :construction_worker: like:
+
+- [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/Freed-Wu/Freed-Wu/master.svg)](https://results.pre-commit.ci/latest/github/Freed-Wu/Freed-Wu/master)
+- [![github/workflow](https://github.com/Freed-Wu/Freed-Wu/actions/workflows/main.yml/badge.svg)](https://github.com/Freed-Wu/Freed-Wu/actions).
+
+If you are :satisfied: with me, you can find more information about me in:
+
+- [![github](https://img.shields.io/github/followers/Freed-Wu?logo=github)](https://github.com/Freed-Wu?tab=followers)
+- [![sponsors](https://shields.io/github/sponsors/Freed-Wu?logo=github)](https://github.com/sponsors/Freed-Wu/)
+- [![twitter](https://img.shields.io/twitter/follow/FreedWu?logo=twitter)](https://twitter.com/FreedWu)
+- [![XDA forum](https://img.shields.io/badge/XDA%20forum-gray?logo=Android)](https://forum.xda-developers.com/m/freed-wu.11344913)
+- [![Archlinux BBS](https://img.shields.io/badge/Archlinux%20BBS-gray?logo=Archlinux)](https://bbs.Archlinux.org/profile.php?id=126120)
+- [![Gentoo forum](https://img.shields.io/badge/Gentoo%20forum-gray?logo=Gentoo)](https://forums.Gentoo.org/profile.php?mode=viewprofile&u=399232)
+- [![zhihu](https://img.shields.io/badge/zhihu-gray?logo=zhihu)](https://www.zhihu.com/people/wu-zhen-yu-49-44)
+- [![weibo](https://img.shields.io/badge/weibo-gray?logo=sina-weibo)](https://weibo.com/u/5198670731)
+- [![linkedin](https://img.shields.io/badge/linkedin-gray?logo=linkedin)](https://www.linkedin.com/in/zhenyu-wu-5625971a7)
+- [![bilibili](https://img.shields.io/badge/bilibili-gray?logo=bilibili)](https://space.bilibili.com/49330423)
+- [![qq](https://img.shields.io/badge/qq-gray?logo=tencent-qq)](https://user.qzone.qq.com/1295652958)
 
 If you are my junior :boy:, you can find
 [all of my homework :memo: and experiment :alembic: reports :chart_with_upwards_trend:](https://github.com/Freed-Wu?tab=repositories&q=homework)
