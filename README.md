@@ -117,14 +117,18 @@ If you are :satisfied: with me, you can find more information about me in:
 - [![XDA forum](https://img.shields.io/badge/XDA%20forum-gray?logo=Android)](https://forum.xda-developers.com/m/freed-wu.11344913)
 - [![Archlinux BBS](https://img.shields.io/badge/Archlinux%20BBS-gray?logo=Archlinux)](https://bbs.Archlinux.org/profile.php?id=126120)
 - [![Gentoo forum](https://img.shields.io/badge/Gentoo%20forum-gray?logo=Gentoo)](https://forums.Gentoo.org/profile.php?mode=viewprofile&u=399232)
+- [![NixOS discourse](https://img.shields.io/badge/NixOS%20discourse-gray?logo=NixOS)](https://discourse.nixos.org/u/Freed-Wu)
+- [![python discuss](https://img.shields.io/badge/python%20discuss-gray?logo=python)](https://discuss.python.org/u/Freed-Wu)
+- [![pytorch discuss](https://img.shields.io/badge/pytorch%20discuss-gray?logo=pytorch)](https://discuss.pytorch.org/u/Freed-Wu)
 - [![zhihu](https://img.shields.io/badge/zhihu-gray?logo=zhihu)](https://www.zhihu.com/people/wu-zhen-yu-49-44)
 - [![weibo](https://img.shields.io/badge/weibo-gray?logo=sina-weibo)](https://weibo.com/u/5198670731)
 - [![linkedin](https://img.shields.io/badge/linkedin-gray?logo=linkedin)](https://www.linkedin.com/in/zhenyu-wu-5625971a7)
 - [![bilibili](https://img.shields.io/badge/bilibili-gray?logo=bilibili)](https://space.bilibili.com/49330423)
 - [![qq](https://img.shields.io/badge/qq-gray?logo=tencent-qq)](https://user.qzone.qq.com/1295652958)
 
-If you are my junior :boy:, you can find
-[all of my homework :memo: and experiment :alembic: reports :chart_with_upwards_trend:](https://github.com/Freed-Wu?tab=repositories&q=homework)
+If you are my junior :boy:, you can find all of
+[my homework :chart_with_upwards_trend:](https://github.com/Freed-Wu?tab=repositories&q=homework)
+and [competition code :memo:](https://github.com/Freed-Wu?tab=repositories&q=competition)
 as a reference :eye:.
 
 This is my recent status:
