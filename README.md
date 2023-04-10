@@ -36,17 +36,16 @@ gh pr create
 
 I code in my favourite
 [![Archlinux](https://img.shields.io/badge/Archlinux-rolling-blue?logo=Archlinux)](https://aur.Archlinux.org/account/Freed)
-\:computer:
-with a $2880 \times 2560$ screen composed of two monitors
-when I am in the [laboratory](https://github.com/ustc-ivclab).
-I have spent
+desktop :computer: with a $2880 \times 2560$ screen composed of two monitors
+when I am in the [laboratory](https://github.com/ustc-ivclab). I have spent
 [![wakatime](https://wakatime.com/badge/user/4472c829-ef20-4823-ae4b-4ed0954e0b44.svg)](https://wakatime.com/@wzy)
 and
 [![codestats](https://img.shields.io/badge/dynamic/json?url=https://codestats.net/api/users/Freed-Wu&query=%24.total_xp&label=xp&logo=data:image/png%3Bbase64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQfjAwcHLTn8E0WHAAACqUlEQVRIx+3US2tdVRQH8N953OTaRqgvQm1iwApiSyG11Maq0IAJjVAH4kALnRQEFVp0YgXrA8kXUFD8Ag7qRBR8IBbEKtSIpRGVSlMdNBVsFaFptCW5Zzk4556cm1r8ALr35Oy9zl6P//+/Fv+vpOeUSRDVbShEw5pKG6fV1urxtQIksn+25tVHqiO3zZiNblA477RZP1ioo3dsMGmLm4Xf/WTWrIsr0XnEt6JndyzYi1wi8ZLFKu1yFy4aLzNIdbzmIC47Zsa8wpCtths0jNSy1x3Aae+as2TQ3R6w3mA3+rQQjrqzrjrBgP0eAvcohCNalSXBWk+7vyxgh47wqRyZtpZcXoOa40Vhwe3ok1fWxnpbWLQZrVUoZ1I53hR+NiBtMJXIJaQG7cInvpdb0rLbTWDAlLZCggWsN6KQyKrswnKpg0khHEQ/JoTDYL+wr7rdI4Rv7Kxo72YHnhLC7qraG71qM7jNtCGq3z4QOjp+dMTzJqxbUeYLQhir+LiW3Nd6w5WGDn7zlltL9//uoFQqIw54x3cuCR3hvFF4UghTFQcjPjQOtvrYlrqElV7IDHvcjBC+lvOgEJ6p4BoXngP7hMdowJZW/Cc1KmGKW8wL71e/JjbqrwR0R/24t0/Tmq9wKHXBUUwYtawlnHEFdMzV/R6yBkKFJfxBV3rbLAmf60emT6uWauo6sEZaaa/cfXhCCHtL7A8L4QubGun22+kjz4JXvGe0nkcJtjsnnDOY60hNG3DIfU44ZsYF19tkzJDcZ6DtYVNO+dKcv6yzw6Q2XvZrlxr2OLlqoFzylV1KuR+32LAUwhmPIu0mnFUj7V4j1vjTL0456WwD+2Gj7rJB26J5Jxx3Wapotu7VQ7U7h3vncReJ7GqGm07KVJvOkh7rqqH+X15/A4KR4pXr8wp+AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE5LTAzLTA3VDA3OjQ1OjU3KzAxOjAwlMWKwgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOS0wMy0wN1QwNzo0NTo1NyswMTowMOWYMn4AAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAAAV3pUWHRSYXcgcHJvZmlsZSB0eXBlIGlwdGMAAHic4/IMCHFWKCjKT8vMSeVSAAMjCy5jCxMjE0uTFAMTIESANMNkAyOzVCDL2NTIxMzEHMQHy4BIoEouAOoXEXTyQjWVAAAAAElFTkSuQmCC)](https://codestats.net/users/Freed-Wu)
 on coding and will spend the rest of my life on it.
 
-When I return to my :house:, I connect
-my
+When I return to my :house:, I use my
+[![NixOS](https://img.shields.io/badge/NixOS-unstable-blue?logo=NixOS)](https://discourse.nixos.org/u/Freed-Wu)
+laptop :computer: to connect my
 [![OpenWrt](https://img.shields.io/badge/OpenWrt-gray?logo=OpenWrt)](https://space.bilibili.com/49330423/dynamic)
 router and use
 [![firefox](https://img.shields.io/badge/firefox-gray?logo=firefox-browser)](https://github.com/mozilla)
@@ -116,7 +115,6 @@ If you are :satisfied: with me, you can find more information about me in:
 - [![XDA forum](https://img.shields.io/badge/XDA%20forum-gray?logo=Android)](https://forum.xda-developers.com/m/freed-wu.11344913)
 - [![Archlinux BBS](https://img.shields.io/badge/Archlinux%20BBS-gray?logo=Archlinux)](https://bbs.Archlinux.org/profile.php?id=126120)
 - [![Gentoo forum](https://img.shields.io/badge/Gentoo%20forum-gray?logo=Gentoo)](https://forums.Gentoo.org/profile.php?mode=viewprofile&u=399232)
-- [![NixOS discourse](https://img.shields.io/badge/NixOS%20discourse-gray?logo=NixOS)](https://discourse.nixos.org/u/Freed-Wu)
 - [![python discuss](https://img.shields.io/badge/python%20discuss-gray?logo=python)](https://discuss.python.org/u/Freed-Wu)
 - [![pytorch discuss](https://img.shields.io/badge/pytorch%20discuss-gray?logo=pytorch)](https://discuss.pytorch.org/u/Freed-Wu)
 - [![zhihu](https://img.shields.io/badge/zhihu-gray?logo=zhihu)](https://www.zhihu.com/people/wu-zhen-yu-49-44)
