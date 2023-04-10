@@ -100,7 +100,7 @@ BTW:
 - I always write documents [![readthedocs](https://shields.io/readthedocs/computer-graphics-demo)](https://computer-graphics-demo.readthedocs.io).
 - I care about licenses [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFreed-Wu%2Fmy-dotfiles.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFreed-Wu%2Fmy-dotfiles).
 - I make sure code coverage rate [![codecov](https://codecov.io/gh/Freed-Wu/hhighlighter-rg/branch/main/graph/badge.svg)](https://codecov.io/gh/Freed-Wu/hhighlighter-rg).
-- I use CI/CD like [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/Freed-Wu/Freed-Wu/master.svg)](https://results.pre-commit.ci/latest/github/Freed-Wu/Freed-Wu/master).
+- I use CI/CD like [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/Freed-Wu/Freed-Wu/main.svg)](https://results.pre-commit.ci/latest/github/Freed-Wu/Freed-Wu/main).
 - and [![github/workflow](https://github.com/Freed-Wu/Freed-Wu/actions/workflows/main.yml/badge.svg)](https://github.com/Freed-Wu/Freed-Wu/actions)
 
 If you are :satisfied: with me, you can find more information about me in:
