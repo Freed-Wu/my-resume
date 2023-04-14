@@ -136,13 +136,17 @@ This is my recent status:
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freed-Wu&theme=dracula&layout=compact&langs_count=10)](https://github.com/Freed-Wu)
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wzy&theme=dracula&layout=compact&langs_count=10&range=last_7_days)](https://wakatime.com/@wzy)
 
-This is my [resume :notebook:](https://github.com/Freed-Wu/Freed-Wu/releases).
-(need update)
+<!-- This is my -->
 
-<details>
-  <summary>Resume</summary>
-  <img src="images/main-1.png"><img>
-</details>
+<!-- [resume :notebook:](https://github.com/Freed-Wu/Freed-Wu/releases). -->
+
+<!-- <details>                            -->
+
+<!--   <summary>Resume</summary>          -->
+
+<!--   <img src="images/main-1.png"><img> -->
+
+<!-- </details>                           -->
 
 This is my [homepage](https://freed-wu.github.io).
 
