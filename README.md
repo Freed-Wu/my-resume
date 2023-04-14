@@ -141,7 +141,6 @@ This is my [resume :notebook:](https://github.com/Freed-Wu/Freed-Wu/releases).
 
 <details>
   <summary>Resume</summary>
-  <img src="images/main-2.png"><img>
   <img src="images/main-1.png"><img>
 </details>
 
