@@ -117,6 +117,8 @@ If you are :satisfied: with me, you can find more information about me in:
 - [![Gentoo forum](https://img.shields.io/badge/Gentoo%20forum-gray?logo=Gentoo)](https://forums.Gentoo.org/profile.php?mode=viewprofile&u=399232)
 - [![python discuss](https://img.shields.io/badge/python%20discuss-gray?logo=python)](https://discuss.python.org/u/Freed-Wu)
 - [![pytorch discuss](https://img.shields.io/badge/pytorch%20discuss-gray?logo=pytorch)](https://discuss.pytorch.org/u/Freed-Wu)
+- [![octave discourse](https://img.shields.io/badge/octave%20discourse-gray?logo=octave)](https://octave.discourse.group/u/freed-wu)
+- [![cmake discourse](https://img.shields.io/badge/cmake%20discourse-gray?logo=cmake)](https://discourse.cmake.org/u/freed-wu)
 - [![zhihu](https://img.shields.io/badge/zhihu-gray?logo=zhihu)](https://www.zhihu.com/people/wu-zhen-yu-49-44)
 - [![weibo](https://img.shields.io/badge/weibo-gray?logo=sina-weibo)](https://weibo.com/u/5198670731)
 - [![linkedin](https://img.shields.io/badge/linkedin-gray?logo=linkedin)](https://www.linkedin.com/in/zhenyu-wu-5625971a7)
